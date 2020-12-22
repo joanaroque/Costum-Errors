@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<turma>
+  <formando>
+    <nome>Joana Roque</nome>
+    <morada>Rua A</morada>
+    <idade>14</idade>
+  </formando>
+  <formando>
+    <nome>Anotnia Francisca</nome>
+    <morada>Rua B</morada>
+    <idade>61</idade>
+  </formando>
+  <formando>
+    <nome>Fonseca Maria</nome>
+    <morada>Rua C</morada>
+    <idade>47</idade>
+  </formando>
+  <formando>
+    <nome>Joana Roque</nome>
+    <morada>Rua A</morada>
+    <idade>14</idade>
+  </formando>
+  <formando>
+    <nome>Anotnia Francisca</nome>
+    <morada>Rua B</morada>
+    <idade>61</idade>
+  </formando>
+  <formando>
+    <nome>Fonseca Maria</nome>
+    <morada>Rua C</morada>
+    <idade>47</idade>
+  </formando>
+  
+</turma>

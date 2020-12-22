@@ -1,0 +1,19 @@
+C:\Users\Joana Roque\source\repos\Costumizar_Erros\Costumizar_Erros\bin\Costumizar_Erros.dll.config
+C:\Users\Joana Roque\source\repos\Costumizar_Erros\Costumizar_Erros\bin\Costumizar_Erros.dll
+C:\Users\Joana Roque\source\repos\Costumizar_Erros\Costumizar_Erros\bin\Costumizar_Erros.pdb
+C:\Users\Joana Roque\source\repos\Costumizar_Erros\Costumizar_Erros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joana Roque\source\repos\Costumizar_Erros\Costumizar_Erros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joana Roque\source\repos\Costumizar_Erros\Costumizar_Erros\obj\Debug\Costumizar_Erros.csprojResolveAssemblyReference.cache
+C:\Users\Joana Roque\source\repos\Costumizar_Erros\Costumizar_Erros\obj\Debug\Costumizar_Erros.csproj.CoreCompileInputs.cache
+C:\Users\Joana Roque\source\repos\Costumizar_Erros\Costumizar_Erros\obj\Debug\Costumizar_Erros.dll
+C:\Users\Joana Roque\source\repos\Costumizar_Erros\Costumizar_Erros\obj\Debug\Costumizar_Erros.pdb
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\bin\Costumizar_Erros.dll.config
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\bin\Costumizar_Erros.dll
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\bin\Costumizar_Erros.pdb
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\obj\Debug\Costumizar_Erros.csprojAssemblyReference.cache
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\obj\Debug\Costumizar_Erros.csproj.CoreCompileInputs.cache
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\obj\Debug\Costumizar_Erros.csproj.CopyComplete
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\obj\Debug\Costumizar_Erros.dll
+C:\Users\joana\Documents\Pacheco_Sistemas_Integração\Costumizar_Erros\Costumizar_Erros\obj\Debug\Costumizar_Erros.pdb

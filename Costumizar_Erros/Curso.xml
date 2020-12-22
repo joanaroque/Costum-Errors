@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cursos>
+  <curso>
+    <nome>Programacao</nome>
+    <regime>Diurno</regime>
+    <nHoras>1400</nHoras>
+  </curso>
+  <curso>
+    <nome>Redes</nome>
+    <regime>Diurno</regime>
+    <nHoras>1000</nHoras>
+  </curso>
+  <curso>
+    <nome>Multimédia</nome>
+    <regime>Diurno</regime>
+    <nHoras>47</nHoras>
+  </curso>
+ 
+</cursos>

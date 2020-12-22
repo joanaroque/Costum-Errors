@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<games>
+  <game>
+    <nome>Need for speed</nome>
+    <link>https://www.youtube.com/watch?v=04KPiGmC7Lc</link>
+    <plataforma>PC</plataforma>
+    <preco>35</preco>
+    <foto>imagens/need.jfif</foto>
+  </game>
+  <game>
+    <nome>Counter Strike</nome>
+    <link>https://www.youtube.com/watch?v=wsEwwhkx22g</link>
+    <plataforma>PC</plataforma>
+    <preco>25</preco>
+    <foto>imagens/counter.jfif</foto>
+  </game>
+  <game>
+    <nome>Fifa 20</nome>
+    <link>https://www.youtube.com/watch?v=GnTOqtCpLfQ</link>
+    <plataforma>PS4</plataforma>
+    <preco>50</preco>
+    <foto>imagens/fifa.jfif</foto>
+  </game>
+  <game>
+    <nome>Sonic</nome>
+    <link>https://www.youtube.com/watch?v=WxMskhDXLYg</link>
+    <plataforma>PC</plataforma>
+    <preco>50</preco>
+    <foto>imagens/sonic.jfif</foto>
+  </game>
+  <game>
+    <nome>Super Mario</nome>
+    <link>https://www.youtube.com/watch?v=NTa6Xbzfq1U</link>
+    <plataforma>XBOX</plataforma>
+    <preco>50</preco>
+    <foto>imagens/mario.jfif</foto>
+  </game>
+  <game>
+    <nome>Super Mario</nome>
+    <link>https://www.youtube.com/watch?v=NTa6Xbzfq1U</link>
+    <plataforma>PS4</plataforma>
+    <preco>50</preco>
+    <foto>imagens/mario.jfif</foto>
+  </game>
+  <game>
+    <nome>Super Mario</nome>
+    <link>https://www.youtube.com/watch?v=NTa6Xbzfq1U</link>
+    <plataforma>PC</plataforma>
+    <preco>50</preco>
+    <foto>imagens/mario.jfif</foto>
+  </game>
+  <game>
+    <nome>Super Mario</nome>
+    <link>https://www.youtube.com/watch?v=NTa6Xbzfq1U</link>
+    <plataforma>XBOX</plataforma>
+    <preco>50</preco>
+    <foto>imagens/mario.jfif</foto>
+  </game>
+  <game>
+    <nome>Super Mario</nome>
+    <link>https://www.youtube.com/watch?v=NTa6Xbzfq1U</link>
+    <plataforma>PS5</plataforma>
+    <preco>50</preco>
+    <foto>imagens/mario.jfif</foto>
+  </game>
+  <game>
+    <nome>Super Mario</nome>
+    <link>https://www.youtube.com/watch?v=NTa6Xbzfq1U</link>
+    <plataforma>PC</plataforma>
+    <preco>50</preco>
+    <foto>imagens/mario.jfif</foto>
+  </game>
+  <game>
+    <nome>Counter Strike</nome>
+    <link>https://www.youtube.com/watch?v=wsEwwhkx22g</link>
+    <plataforma>PC</plataforma>
+    <preco>25</preco>
+    <foto>imagens/counter.jfif</foto>
+  </game>
+  <game>
+    <nome>Fifa 20</nome>
+    <link>https://www.youtube.com/watch?v=GnTOqtCpLfQ</link>
+    <plataforma>PS4</plataforma>
+    <preco>50</preco>
+    <foto>imagens/fifa.jfif</foto>
+  </game>
+  <game>
+    <nome>Sonic</nome>
+    <link>https://www.youtube.com/watch?v=WxMskhDXLYg</link>
+    <plataforma>XBOX</plataforma>
+    <preco>50</preco>
+    <foto>imagens/sonic.jfif</foto>
+  </game>
+  <game>
+    <nome>Super Mario</nome>
+    <link>https://www.youtube.com/watch?v=NTa6Xbzfq1U</link>
+    <plataforma>XBOX</plataforma>
+    <preco>50</preco>
+    <foto>imagens/mario.jfif</foto>
+  </game>
+</games>
